@@ -165,7 +165,7 @@ class Terminal(cmd.Command):
     
     def fullHelp(self):
         self.printHelp()
-        print("MEC Terminal 1000000, a shell program by Sebastian Descy")
+        print("MEC Terminal 1000000, a shell program by MEC")
         print("Shooter game in eggshell. Eggshell egidore assistant.")
         print("Magical Electronic")
     def run(self, argv: list[str]):
